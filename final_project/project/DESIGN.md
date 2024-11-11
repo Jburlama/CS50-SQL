@@ -68,7 +68,8 @@ All columns in the `menu` table are required and hence should have the `NOT NULL
 
 ### Relationships
 
-![[me/jhonas/Pictures/images/restaurant_relations_db.png]]
+![restaurant_relations_db](https://github.com/user-attachments/assets/e66910be-e4d9-41be-a786-ff3b464a4849)
+
 
 ## Optimizations
 
